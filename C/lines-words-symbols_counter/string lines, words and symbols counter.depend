@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546543263 source:c:\users\alessandro\desktop\info\string lines, words and symbols counter\main.c
+	<stdio.h>
+	<stdlib.h>
+

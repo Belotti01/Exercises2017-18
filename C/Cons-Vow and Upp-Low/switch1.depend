@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539343359 source:c:\users\info1\desktop\switch1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1539343724 source:c:\users\alessandro\desktop\it programs\c\switch1\main.c
+	<stdio.h>
+	<stdlib.h>
+

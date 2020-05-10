@@ -1,0 +1,32 @@
+             
+NUM EQU 20 
+
+.MODEL small
+.STACK
+.DATA   
+
+FIB DW NUM DUP (?) 
+
+.CODE
+.STARTUP  
+
+MOV DI, 0
+MOV FIB[DI], 1
+ADD DI, 2
+MOV FIB[DI], 1
+ADD DI, 2 
+MOV CX, NUM-2 
+
+CICLO:    
+    MOV AX,FIB[DI]-4
+    ADD AX,FIB[DI]-2
+    MOV FIB[DI],AX
+    ADD DI,2
+    LOOP CICLO  
+    
+.EXIT
+END
+
+
+
+

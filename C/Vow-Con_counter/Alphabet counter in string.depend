@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547741994 source:c:\users\alessandro\desktop\info\alphabet counter in string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

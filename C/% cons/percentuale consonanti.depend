@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541171731 source:c:\users\alessandro\desktop\informatica\codeblocks\c\percentuale consonanti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

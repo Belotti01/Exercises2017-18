@@ -1,0 +1,27 @@
+
+DIM EQU 5 
+
+.MODEL small
+.STACK
+.DATA 
+
+VET1 DB 1, 2, 3, 4 ,5
+VET2 DB 6, 7, 8, 9, 10
+
+.CODE  
+.STARTUP
+
+MOV CX, DIM
+LEA BX, VET1
+LEA SI, VET2  
+
+ciclo:
+    MOV DH, BYTE PTR[BX]
+    MOV DL, BYTE PTR[SI]
+    MOV BYTE PTR[BX], DL
+    MOV BYTE PTR[SI], DH
+    INC BX
+    INC SI
+    LOOP ciclo
+.EXIT
+END

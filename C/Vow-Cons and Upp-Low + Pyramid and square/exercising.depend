@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540937252 source:c:\users\alessandro\desktop\informatica\codeblocks\c\exercising\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1540937393 source:c:\users\alessandro\desktop\files\documents\school\3c\informatica\codeblocks\c\prep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1540937393 source:c:\users\alessandro\desktop\it programs\c\prep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

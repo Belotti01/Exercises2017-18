@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540977482 source:c:\users\info1\desktop\vectprs\main.c
+	<stdio.h>
+	<stdlib.h>
+

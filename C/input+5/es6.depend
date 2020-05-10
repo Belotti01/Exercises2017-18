@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539346375 source:c:\users\info1\desktop\es6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1539346450 source:e:\info\es6\main.c
+	<stdio.h>
+	<stdlib.h>
+
